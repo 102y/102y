@@ -41,19 +41,19 @@
 ### 🌐 Connect with me:
 <div align="left">
   <a href="https://www.linkedin.com/in/luaay-alswilem-5901b2264/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" /></a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" /></a>
-  <a href="https://discord.com/users/YOUR_ID" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" /></a>
-  <a href="https://www.youtube.com/@YOUR_USERNAME" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" /></a>
-  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" /></a>
+  <a href="https://x.com/AlswilemLu94118" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" /></a>
+  <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" /></a>
+  <a href="https://www.youtube.com/@102y" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" /></a>
+  <a href="https://www.instagram.com/luaay_102y/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" /></a>
+  <a href="mailto:luaayalswilem3@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" /></a>
 </div>
 
 ---
 
 ### 📌 Featured Projects
-- 🔬 [Brain Tumor Detection with YOLOv11](https://github.com/YOUR_USERNAME/project1)
-- 💸 [Bitcoin Price Prediction using LSTM](https://github.com/YOUR_USERNAME/project2)
-- 🌿 [Plant Disease Classification with ResNet20](https://github.com/YOUR_USERNAME/project3)
+- 🔬 [Brain Tumor Detection with YOLOv11]([https://github.com/YOUR_USERNAME/project1](https://github.com/102y/Liver-Tumor-Detection-and-Segmentation-using-YOLO-v11))
+- 💸 [Liver-Tumor-Detection-and-Segmentation-using-YOLO-v11]([https://github.com/YOUR_USERNAME/project2](https://github.com/102y/Liver-Tumor-Detection-and-Segmentation-using-YOLO-v11))
+- 🌿 [Ethereum-Price-Prediction-Using-LSTM-Deep-Learning-](https://github.com/102y/Ethereum-Price-Prediction-Using-LSTM-Deep-Learning-)
 
 ---
 
