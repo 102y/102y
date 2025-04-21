@@ -66,7 +66,7 @@
 
 ### 📊 GitHub Stats
 
-![Luaay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Luaay's GitHub stats](https://github-readme-stats.vercel.app/api?username=102y&show_icons=true&theme=tokyonight)
 
 ---
 
