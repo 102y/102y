@@ -51,8 +51,8 @@
 ---
 
 ### 📌 Featured Projects
-- 🔬 [Brain Tumor Detection with YOLOv11]([https://github.com/YOUR_USERNAME/project1](https://github.com/102y/Liver-Tumor-Detection-and-Segmentation-using-YOLO-v11))
-- 🔬 [Liver-Tumor-Detection-and-Segmentation-using-YOLO-v11]([https://github.com/YOUR_USERNAME/project2](https://github.com/102y/Liver-Tumor-Detection-and-Segmentation-using-YOLO-v11))
+- 🔬 [Brain Tumor Detection with YOLOv11](https://github.com/102y/Liver-Tumor-Detection-and-Segmentation-using-YOLO-v11)
+- 🔬 [Liver-Tumor-Detection-and-Segmentation-using-YOLO-v11](https://github.com/102y/Liver-Tumor-Detection-and-Segmentation-using-YOLO-v11)
 - 💸 [Ethereum-Price-Prediction-Using-LSTM-Deep-Learning-](https://github.com/102y/Ethereum-Price-Prediction-Using-LSTM-Deep-Learning-)
 
 ---
